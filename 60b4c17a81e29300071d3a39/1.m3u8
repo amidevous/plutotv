@@ -4,7 +4,7 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-PROGRAM-DATE-TIME:2024-06-16T20:47:10.000Z
-#EXT-X-KEY:METHOD=AES-128,URI="https://siloh-ns1.plutotv.net/39737e_Nickelodeon_FR/clip/60db3bb97d70330014d5a0c9_Avatar_The_Last_Airbender_FR_Les_jours_derrance_dAppa_S02E216/720p/20210630_065438/hls/0-1363000/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000000
+#EXT-X-KEY:METHOD=AES-128,URI="https://siloh-ns1.plutotv.net/39737e_Nickelodeon_FR/clip/60db3bb97d70330014d5a0c9_Avatar_The_Last_Airbender_FR_Les_jours_derrance_dAppa_S02E216/720p/20210630_065438/hls/0-1363000/hls_2400_keyfile_0.key",IV=0x00000000000000000000000000000001
 #EXTINF:5,
 https://siloh-ns1.plutotv.net/39737e_Nickelodeon_FR/clip/60db3bb97d70330014d5a0c9_Avatar_The_Last_Airbender_FR_Les_jours_derrance_dAppa_S02E216/720p/20210630_065438/hls/0-1363000/hls_2400-00000.ts
 #EXT-X-KEY:METHOD=AES-128,URI="https://siloh-ns1.plutotv.net/39737e_Nickelodeon_FR/clip/60db3bb97d70330014d5a0c9_Avatar_The_Last_Airbender_FR_Les_jours_derrance_dAppa_S02E216/720p/20210630_065438/hls/0-1363000/hls_2400_keyfile_1.key",IV=0x00000000000000000000000000000000
